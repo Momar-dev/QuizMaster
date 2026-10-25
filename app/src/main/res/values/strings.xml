@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quiz Master</string>
+
+    <!-- Home Screen -->
+    <string name="home_subtitle">Challenge your intellect across science, history, geography, tech, and beyond.</string>
+    <string name="btn_start_quiz">Start Quiz</string>
+    <string name="home_format_title">Quiz Format</string>
+    <string name="format_questions_count">15 Questions</string>
+    <string name="format_questions_desc">Curated multiple-choice questions</string>
+    <string name="format_points">1 Point Each</string>
+    <string name="format_points_desc">No negative penalty for wrong answers</string>
+    <string name="format_feedback">Instant Insights</string>
+    <string name="format_feedback_desc">Detailed explanations after every answer</string>
+    <string name="home_stats_title">Your Progress</string>
+    <string name="home_best_score_label">Best Score</string>
+    <string name="home_quizzes_played_label">Quizzes Completed</string>
+    <string name="no_previous_score">No attempts yet</string>
+
+    <!-- Quiz Screen -->
+    <string name="quiz_question_counter">Question %1$d of %2$d</string>
+    <string name="quiz_score_counter">Score: %1$d</string>
+    <string name="quiz_btn_next">Next Question</string>
+    <string name="quiz_btn_view_results">View Results</string>
+    <string name="quiz_feedback_correct">Correct! Well done.</string>
+    <string name="quiz_feedback_incorrect">Incorrect</string>
+    <string name="quiz_explanation_header">Explanation:</string>
+
+    <!-- Results Screen -->
+    <string name="results_title">Quiz Completed!</string>
+    <string name="results_score_format">%1$d / %2$d</string>
+    <string name="results_percent_format">%1$d%%</string>
+    <string name="results_correct_label">Correct</string>
+    <string name="results_incorrect_label">Incorrect</string>
+    <string name="results_accuracy_label">Accuracy</string>
+    <string name="results_best_score_label">All-time Best: %1$s</string>
+    <string name="btn_review_answers">Review Answers</string>
+    <string name="btn_play_again">Play Again</string>
+    <string name="btn_back_home">Back to Home</string>
+
+    <!-- Review Screen -->
+    <string name="review_title">Answer Review</string>
+    <string name="review_subtitle">Review your answers and explanations below</string>
+    <string name="review_your_answer">Your Answer: %1$s</string>
+    <string name="review_correct_answer">Correct Answer: %1$s</string>
+
+    <!-- Performance Ratings -->
+    <string name="perf_legendary_title">Grandmaster!</string>
+    <string name="perf_legendary_desc">Phenomenal performance! You have conquered the quiz with near perfection.</string>
+    <string name="perf_excellent_title">Excellent Mind!</string>
+    <string name="perf_excellent_desc">Outstanding job! You demonstrated deep and broad knowledge.</string>
+    <string name="perf_good_title">Well Played!</string>
+    <string name="perf_good_desc">Solid effort! A few tricky questions caught you, but great foundation.</string>
+    <string name="perf_needs_work_title">Keep Learning!</string>
+    <string name="perf_needs_work_desc">Practice makes perfect. Try again and sharpen your knowledge!</string>
+
+    <!-- Accessibility Descriptions -->
+    <string name="cd_app_logo">Quiz Master Trophy Logo</string>
+    <string name="cd_check_icon">Checkmark Icon</string>
+    <string name="cd_cross_icon">Cross Icon</string>
+    <string name="cd_back_button">Navigate Back</string>
+    <string name="cd_category_icon">Category Icon</string>
+    <string name="cd_trophy_icon">Trophy Icon</string>
+</resources>

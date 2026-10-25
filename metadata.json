@@ -1,0 +1,6 @@
+{
+  "name": "Quiz Master",
+  "description": "A premium native Android quiz application testing general knowledge with instant feedback, explanations, and score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

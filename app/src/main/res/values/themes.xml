@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Application Theme -->
+    <style name="Theme.QuizMaster" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary Brand Colors -->
+        <item name="colorPrimary">@color/primary_indigo</item>
+        <item name="colorPrimaryVariant">@color/primary_indigo_dark</item>
+        <item name="colorOnPrimary">@color/text_primary</item>
+
+        <!-- Secondary / Accent Colors -->
+        <item name="colorSecondary">@color/accent_cyan</item>
+        <item name="colorSecondaryVariant">@color/accent_cyan_bright</item>
+        <item name="colorOnSecondary">@color/bg_navy_deep</item>
+
+        <!-- System Backgrounds -->
+        <item name="android:windowBackground">@color/bg_navy_deep</item>
+        <item name="android:colorBackground">@color/bg_navy_deep</item>
+        <item name="colorSurface">@color/bg_navy_surface</item>
+        <item name="colorOnSurface">@color/text_primary</item>
+
+        <!-- Status and Navigation Bars -->
+        <item name="android:statusBarColor">@color/bg_navy_deep</item>
+        <item name="android:navigationBarColor">@color/bg_navy_deep</item>
+        <item name="android:windowLightStatusBar">false</item>
+
+        <!-- Typography / Text colors -->
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+    </style>
+
+    <!-- Legacy / compatibility alias -->
+    <style name="Theme.MyApplication" parent="Theme.QuizMaster" />
+</resources>

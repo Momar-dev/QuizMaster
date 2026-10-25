@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+    <color name="bg_navy_deep">#0A0F1D</color>
+    <color name="bg_navy_surface">#121B2F</color>
+    <color name="bg_navy_elevated">#1A253F</color>
+    <color name="bg_card_border">#253556</color>
+    <color name="bg_card_border_highlight">#3B82F6</color>
+
+    <!-- Brand Primaries (Indigo / Violet) -->
+    <color name="primary_indigo">#6366F1</color>
+    <color name="primary_indigo_dark">#4F46E5</color>
+    <color name="primary_violet">#8B5CF6</color>
+    <color name="primary_violet_dark">#7C3AED</color>
+
+    <!-- Accents (Electric Cyan / Turquoise) -->
+    <color name="accent_cyan">#06B6D4</color>
+    <color name="accent_cyan_bright">#22D3EE</color>
+    <color name="accent_teal">#14B8A6</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="text_muted">#64748B</color>
+
+    <!-- Quiz States: Correct (Emerald) -->
+    <color name="correct_green">#10B981</color>
+    <color name="correct_green_dark">#059669</color>
+    <color name="correct_green_bg">#064E3B</color>
+    <color name="correct_green_border">#34D399</color>
+
+    <!-- Quiz States: Incorrect (Coral / Rose) -->
+    <color name="incorrect_red">#EF4444</color>
+    <color name="incorrect_red_dark">#DC2626</color>
+    <color name="incorrect_red_bg">#7F1D1D</color>
+    <color name="incorrect_red_border">#F87171</color>
+
+    <!-- Neutral Options -->
+    <color name="option_bg_normal">#141E33</color>
+    <color name="option_border_normal">#2A3A5A</color>
+    <color name="option_letter_bg">#212F4D</color>
+    <color name="option_letter_text">#93C5FD</color>
+
+    <!-- Badges & Chips -->
+    <color name="badge_category_bg">#1E293B</color>
+    <color name="badge_category_text">#38BDF8</color>
+    <color name="badge_score_bg">#1E1B4B</color>
+    <color name="badge_score_text">#A5B4FC</color>
+
+    <!-- Gold Accents -->
+    <color name="gold_amber">#F59E0B</color>
+    <color name="gold_yellow">#FBBF24</color>
+    <color name="gold_bg">#451A03</color>
+
+    <!-- Utility -->
+    <color name="transparent">#00000000</color>
+    <color name="progress_track">#1E293B</color>
+    <color name="ripple_light">#33FFFFFF</color>
+</resources>
